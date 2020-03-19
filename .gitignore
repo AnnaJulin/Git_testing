@@ -1,0 +1,6 @@
+#Every file that we don't want to git
+#to add or commit
+#Do not show in git status
+
+log.txt
+/Ignore_directory
